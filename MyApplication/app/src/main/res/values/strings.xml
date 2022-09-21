@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="criar_conta">criar conta</string>
+    <string name="novo_por_aqui_crie_sua_conta_agora">Novo por aqui? Crie sua conta agora!</string>
+    <string name="bem_vindo">Bem vindo!</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="entrar">entrar</string>
+</resources>
